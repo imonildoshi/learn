@@ -46,7 +46,3 @@ export function startKafkaProducer() {
 
     producer.on('error', function (err) {})
 }
-
-
-
-
